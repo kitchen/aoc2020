@@ -5,3 +5,5 @@ This is my repo for the Advent of Code 2020.
 I am planning to do this whole event from my iPad using blink.sh to ssh to my raspberry pi. I also hope to do this all in rust as a way to help learn rust. My fallback language will probably be golang, but I'm really going to try to do it all in rust.
 
 Enjoy!
+
+Per the LICENSE.txt file, this code is public domain. I don't think most of it would really be copyrightable anyways, but just in case, have fun, do with it what you please.
